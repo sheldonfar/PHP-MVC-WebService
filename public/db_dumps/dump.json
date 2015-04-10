@@ -1,0 +1,188 @@
+[
+  {
+    "OBJECT_ID":1,
+    "NAME":"ASUS Desktop PC M32AD-US009O Intel Core i5 8GB DDR3 1TB HDD Windows 7 Home Premium 64-Bit",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883220835",
+    "DESCRIPTION":"549.99, Intel HD Graphics 4600, Windows 7 Home Premium 64-Bit, 8GB DDR3 1TB HDD, Intel Core i5 4460 (3.2GHz)"
+  },
+  {
+    "OBJECT_ID":2,
+    "NAME":"CyberpowerPC Gamer Ultra 2140 Desktop PC AMD FX-Series FX-6300 (3.50GHz) 8GB DDR3 500GB HDD NVIDIA GeForce GT 720 1 GB Windows 8.1 64-bit",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883229362",
+    "DESCRIPTION":"509.99, NVIDIA GeForce GT 720 1 GB, Windows 8.1 64-bit, 8GB DDR3 500GB HDD, AMD FX-Series FX-6300 (3.50GHz)"
+  },
+  {
+    "OBJECT_ID":3,
+    "NAME":"CyberpowerPC Desktop PC Gamer Ultra 2098 (GU2098) AMD FX-Series 8GB DDR3 500GB HDD Windows 8.1 64-Bit",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883229285",
+    "DESCRIPTION":"519.99, AMD Radeon R7 240 2GB, Windows 8.1 64-Bit, 8GB DDR3 500GB HDD, AMD FX-Series FX-4300 (3.80GHz)"
+  },
+  {
+    "OBJECT_ID":4,
+    "NAME":"ASUS Desktop PC M32BF-US008O A8-Series APU 4GB DDR3 1TB HDD Windows 7 Home Premium 64-Bit",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883220837",
+    "DESCRIPTION":"399.99, AMD Radeon HD 7560D, Windows 7 Home Premium 64-Bit, 4GB DDR3 1TB HDD, A8-Series APU A8-5500 (3.2GHz)"
+  },
+  {
+    "OBJECT_ID":5,
+    "NAME":"HP Desktop PC 200-G1 (L5L54US#ABA) Pentium J2900 (2.41GHz) 4GB DDR3 500GB HDD Windows 8.1 Pro 64-Bit / Windows 7 Professional downgrade",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883281666",
+    "DESCRIPTION":"299.99, Intel HD Graphics, Windows 8.1 Pro 64-Bit / Windows 7 Professional downgrade, 4GB DDR3 500GB HDD, Pentium J2900 (2.41GHz)"
+  },
+  {
+    "OBJECT_ID":6,
+    "NAME":"DELL Desktop PC XPS X8700-3313BLK Intel Core i7 16GB DDR3 1TB HDD Windows 7 Professional 64-Bit with Windows 8 Upgrade",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883156683",
+    "DESCRIPTION":"1,019.99, NVIDIA GeForce GTX 745 4 GB GDDR3, Windows 7 Professional 64-Bit with Windows 8 Upgrade, 16GB DDR3 1TB HDD, Intel Core i7 4790 (3.6GHz)"
+  },
+  {
+    "OBJECT_ID":7,
+    "NAME":"ASUS Desktop PC M11BB-US006O A10-Series APU 12GB DDR3 Windows 7 Home Premium 64bit",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883220562",
+    "DESCRIPTION":"509.00, AMD Radeon HD 8670D, Windows 7 Home Premium 64bit, 12GB DDR3, A10-Series APU A10-6700 (3.70GHz)"
+  },
+  {
+    "OBJECT_ID":8,
+    "NAME":"Lenovo Desktop PC H50 (90B7007JUS) Intel Core i5 12GB DDR3 1TB HDD Windows 7 Professional 64-Bit / Windows 8 Pro downgrade",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883266905",
+    "DESCRIPTION":"629.99, Intel HD Graphics 4600, Windows 7 Professional 64-Bit / Windows 8 Pro downgrade, 12GB DDR3 1TB HDD, Intel Core i5 4460 (3.2GHz)"
+  },
+  {
+    "OBJECT_ID":9,
+    "NAME":"ASUS Desktop PC M51BC-US019S AMD FX-Series 8GB DDR3 500GB HDD Windows 8.1",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883220699",
+    "DESCRIPTION":"499.99, AMD Radeon R5 235X 1GB, Windows 8.1, 8GB DDR3 500GB HDD, AMD FX-Series FX-4300 (3.80GHz)"
+  },
+  {
+    "OBJECT_ID":10,
+    "NAME":"ASUS Desktop PC M32AD-US001Q Intel Core i5 8GB DDR3 1TB HDD Windows 7 Professional 64-Bit",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883220833",
+    "DESCRIPTION":"579.99, Intel HD Graphics 4600, Windows 7 Professional 64-Bit, 8GB DDR3 1TB HDD, Intel Core i5 4460 (3.2GHz)"
+  },
+  {
+    "OBJECT_ID":11,
+    "NAME":"iBUYPOWER Gaming Desktop Intel Configurator",
+    "HREF":"http://www.newegg.com/Product/BOM.aspx?Item=N82E16883227540",
+    "DESCRIPTION":"522.93, SELECT OPERATING SYSTEM, SELECT ODD, SELECT VIDEO CARD &amp; POWER SUPPLY COMBO, SELECT HDD, SELECT MEMORY, SELECT CPU &amp; MOTHERBOARD COMBO, SELECT CHASSIS"
+  },
+  {
+    "OBJECT_ID":12,
+    "NAME":"ASUS Desktop PC K30AD-US003O Pentium 4GB DDR3 1TB HDD Windows 7 Home Premium 64-Bit",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883220744",
+    "DESCRIPTION":"299.99, Intel HD Graphics, Windows 7 Home Premium 64-Bit, 4GB DDR3 1TB HDD, Pentium G3240 (3.1GHz)"
+  },
+  {
+    "OBJECT_ID":13,
+    "NAME":"Lenovo ThinkCentre m83 Business PC Intel i3 3.40GHz 4GB RAM 500GB/7200RPM DVDRW Windows 8.1 Pro 64-Bit / Windows 7 Professional downgrade 1Year warranty",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883266879",
+    "DESCRIPTION":"399.99, Intel HD Graphics 4400, Windows 8.1 Pro 64-Bit, 4GB DDR3 500GB HDD, Intel Core i3 4130 (3.40GHz)"
+  },
+  {
+    "OBJECT_ID":14,
+    "NAME":"ASUS Desktop PC M32AD-US032S Intel Core i7 16GB DDR3 2TB HDD Windows 8.1 64-Bit",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883220801",
+    "DESCRIPTION":"919.99, NVIDIA GeForce GT 740 4 GB, No Screen, Windows 8.1 64-Bit, 16GB DDR3 2TB HDD, Intel Core i7 4790 (3.6GHz)"
+  },
+  {
+    "OBJECT_ID":15,
+    "NAME":"Lenovo Desktop PC H50-50 (90B7003JUS) Intel Core i5 8GB DDR3 1TB HDD Windows 7 Professional 64-Bit",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883266643",
+    "DESCRIPTION":"569.99, Intel HD Graphics 4600, Windows 7 Professional 64-Bit, 8GB DDR3 1TB HDD, Intel Core i5 4460 (3.2GHz)"
+  },
+  {
+    "OBJECT_ID":16,
+    "NAME":"Lenovo Desktop PC H50-50 (90B7003NUS) Pentium 4GB DDR3 1TB HDD Windows 7 Professional 64-Bit",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883266641",
+    "DESCRIPTION":"379.99, Intel HD Graphics, Windows 7 Professional 64-Bit, 4GB DDR3 1TB HDD, Pentium G3250 (3.20GHz)"
+  },
+  {
+    "OBJECT_ID":17,
+    "NAME":"ASUS Desktop PC M11AD-US017O Intel Core i3 4GB DDR3 1TB HDD Windows 7 Home Premium 64-Bit",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883220743",
+    "DESCRIPTION":"349.99, Intel HD Graphics 4400, Windows 7 Home Premium 64-Bit, 4GB DDR3 1TB HDD, Intel Core i3 4150T (3.0GHz)"
+  },
+  {
+    "OBJECT_ID":18,
+    "NAME":"Acer Desktop PC ATC-605-UR2V Intel Core i3 8GB DDR3 1TB HDD Windows 7 Professional 64-Bit",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883101027",
+    "DESCRIPTION":"499.99, Intel HD Graphics 4400, Windows 7 Professional 64-Bit, 8GB DDR3 1TB HDD, Intel Core i3 4160 (3.60GHz)"
+  },
+  {
+    "OBJECT_ID":19,
+    "NAME":"Acer Desktop PC Predator AG3-605-UR2F Intel Core i7 8GB DDR3 2TB HDD Windows 8.1",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883101018",
+    "DESCRIPTION":"929.99, NVIDIA GeForce GTX 760 1.5 GB, Windows 8.1, 8GB DDR3 2TB HDD, Intel Core i7 4790 (3.6GHz)"
+  },
+  {
+    "OBJECT_ID":20,
+    "NAME":"Lenovo Desktop PC H50-50 (90B7003MUS) Intel Core i3 6GB DDR3 1TB HDD Windows 7 Professional 64-Bit",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883266642",
+    "DESCRIPTION":"489.99, Intel HD Graphics 4400, Windows 7 Professional 64-Bit, 6GB DDR3 1TB HDD, Intel Core i3 4160 (3.60GHz)"
+  },
+  {
+    "OBJECT_ID":21,
+    "NAME":"HP Desktop PC Business Desktop 3500 (D8C46UT#ABA) Intel Core i5 4GB DDR3 500GB HDD Windows 7 Professional 64-bit (available through downgrade rights Windows 8 Pro)",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=9SIA24G1740303",
+    "DESCRIPTION":"554.48, Intel HD Graphics 2500, Windows 7 Professional 64-bit (available through downgrade rights Windows 8 Pro), 4GB DDR3 500GB HDD, Intel Core i5 3470 (3.20GHz)"
+  },
+  {
+    "OBJECT_ID":22,
+    "NAME":"Lenovo Desktop PC H50-00 (90C1000AUS) Pentium 4GB DDR3 1TB HDD Windows 8.1 64-Bit",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883266595",
+    "DESCRIPTION":"299.99, Intel HD Graphics, Windows 8.1 64-Bit, 4GB DDR3 1TB HDD, Pentium J2900 (2.41GHz)"
+  },
+  {
+    "OBJECT_ID":23,
+    "NAME":"HP Desktop PC ProDesk 405-G1 (L5M60US#ABA) A4-Series APU 4GB DDR3 500GB HDD Windows 8.1 Pro 64-Bit / Windows 7 Professional downgrade",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883281667",
+    "DESCRIPTION":"279.99, AMD Radeon HD 8330, Windows 8.1 Pro 64-Bit / Windows 7 Professional downgrade, 4GB DDR3 500GB HDD, A4-Series APU A4-5000 (1.5GHz)"
+  },
+  {
+    "OBJECT_ID":24,
+    "NAME":"iBUYPOWER Desktop PC ARC SERIES NE781K Intel Core i5 8GB DDR3 1TB HDD 120GB SSD Windows 8.1 64-Bit",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883227596",
+    "DESCRIPTION":"749.99, AMD Radeon R7 250X 1 GB, Windows 8.1 64-Bit, 8GB DDR3 1TB HDD 120GB SSD, Intel Core i5 4690K (3.50GHz)"
+  },
+  {
+    "OBJECT_ID":25,
+    "NAME":"ASUS Desktop PC G20AJ-US009S Intel Core i7 8GB DDR3 1TB HDD 8GB SSD Windows 8.1 64-Bit",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=9SIA24G26S9893",
+    "DESCRIPTION":"1,139.27, NVIDIA GeForce GTX 760 2 GB, Windows 8.1 64-Bit, 8GB DDR3 1TB HDD 8GB SSD, Intel Core i7 4790 (3.6GHz)"
+  },
+  {
+    "OBJECT_ID":26,
+    "NAME":"Lenovo Desktop PC IdeaCentre Q190 (57323863) Celeron 4GB DDR3 500GB HDD Windows 8.1",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883265838",
+    "DESCRIPTION":"299.99, Intel HD Graphics, 21.5&quot;, Windows 8.1, 4GB DDR3 500GB HDD, Celeron 1017U (1.60GHz)"
+  },
+  {
+    "OBJECT_ID":27,
+    "NAME":"ASUS Desktop PC M51BC-US002O (90PD00C1-M00130) AMD FX-Series 8GB DDR3 1TB HDD Windows 7 Home Premium",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883220445",
+    "DESCRIPTION":"569.99, AMD Radeon HD 8760, Windows 7 Home Premium, 8GB DDR3 1TB HDD, AMD FX-Series FX-8300 (3.30GHz)"
+  },
+  {
+    "OBJECT_ID":28,
+    "NAME":"Acer Desktop PC AXC-605-UR11 Intel Core i3 4GB DDR3 500GB HDD Windows 8.1",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883103930",
+    "DESCRIPTION":"329.99, Intel HD Graphics 4400, Windows 8.1, 4GB DDR3 500GB HDD, Intel Core i3 4130 (3.40GHz)"
+  },
+  {
+    "OBJECT_ID":29,
+    "NAME":"ASUS Desktop PC CHROMEBOX-M004U Celeron 2GB DDR3 16GB SSD HDD Google Chrome OS",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883220572",
+    "DESCRIPTION":"149.99, Without Keyboard and Mouse, Intel HD Graphics, Google Chrome OS, 2GB DDR3 16GB SSD HDD Capacity, Celeron 2955U (1.4GHz)"
+  },
+  {
+    "OBJECT_ID":30,
+    "NAME":"Lenovo Desktop PC 10AS002JUS Intel Core i3 4GB DDR3 500GB HDD Windows 7 Professional 64bit",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883265796",
+    "DESCRIPTION":"447.99, Intel HD Graphics 4400, No Screen, Windows 7 Professional 64bit, 4GB DDR3 500GB HDD, Intel Core i3 4130 (3.40GHz)"
+  },
+  {
+    "OBJECT_ID":31,
+    "NAME":"ASUS Desktop PC M32AD-US002Q Intel Core i3 8GB DDR3 1TB HDD Windows 7 Professional 64-Bit",
+    "HREF":"http://www.newegg.com/Product/Product.aspx?Item=N82E16883220834",
+    "DESCRIPTION":"479.99, Intel HD Graphics 4400, Windows 7 Professional 64-Bit, 8GB DDR3 1TB HDD, Intel Core i3 4150 (3.50GHz)"
+  }
+]

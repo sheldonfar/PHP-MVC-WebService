@@ -1,0 +1,67 @@
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript" src="public/js/charts.js"></script>
+<div class="jumbotron">
+    <p>Here you can see some statistics.</p>
+    <div class="table-responsive">
+        <table class="table table-bordered  table-hover res-table stat-table">
+            <th class="fc">Parameter</th>
+            <th>Global</th>
+            <th class="cat">Category #1</th>
+            <th class="cat">Category #2</th>
+            <th class="cat">Category #3</th>
+            <tr>
+                <td class="fc">Product count (items)</td>
+                <td><?php echo $this->data['count_global'] ?></td>
+                <td><?php echo $this->data['count_1'] ?></td>
+                <td><?php echo $this->data['count_2'] ?></td>
+                <td><?php echo $this->data['count_3'] ?></td>
+            </tr>
+            <tr>
+                <td class="fc">Maximum price (USD)</td>
+                <td><?php echo $this->data['max_price_global'] ?></td>
+                <td><?php echo $this->data['max_price_1'] ?></td>
+                <td><?php echo $this->data['max_price_2'] ?></td>
+                <td><?php echo $this->data['max_price_3'] ?></td>
+            </tr>
+            <tr>
+                <td class="fc">Minimum price (USD)</td>
+                <td><?php echo $this->data['min_price_global'] ?></td>
+                <td><?php echo $this->data['min_price_1'] ?></td>
+                <td><?php echo $this->data['min_price_2'] ?></td>
+                <td><?php echo $this->data['min_price_3'] ?></td>
+            </tr>
+            <tr>
+                <td class="fc">Average price (USD)</td>
+                <td><?php echo $this->data['avg_price_global'] ?></td>
+                <td><?php echo $this->data['avg_price_1'] ?></td>
+                <td><?php echo $this->data['avg_price_2'] ?></td>
+                <td><?php echo $this->data['avg_price_3'] ?></td>
+            </tr>
+            <tr>
+                <td class="fc">Sum of prices (USD)</td>
+                <td><?php echo $this->data['sum_price_global'] ?></td>
+                <td><?php echo $this->data['sum_price_1'] ?></td>
+                <td><?php echo $this->data['sum_price_2'] ?></td>
+                <td><?php echo $this->data['sum_price_3'] ?></td>
+            </tr>
+            <tr>
+                <td class="fc">Longest product name (symbols) :V</td>
+                <td><?php echo $this->data['longest_name_global'] ?></td>
+                <td><?php echo $this->data['longest_name_1'] ?></td>
+                <td><?php echo $this->data['longest_name_2'] ?></td>
+                <td><?php echo $this->data['longest_name_3'] ?></td>
+            </tr>
+        </table>
+        <div id="charts">
+            <div class="col-md-4 charts" id="chart_div_0"></div>
+            <div class="col-md-4 charts" id="chart_div_1"></div>
+            <div class="col-md-4 charts" id="chart_div_2"></div>
+            <div class="col-md-4 charts" id="chart_div_3"></div>
+            <div class="col-md-4 charts" id="chart_div_4"></div>
+            <div class="col-md-4 charts" id="chart_div_5"></div>
+        </div>
+
+    </div>
+    <?php echo $this->data['result']; ?>
+</div>
+<script type="text/javascript" src="public/js/search.js"></script>

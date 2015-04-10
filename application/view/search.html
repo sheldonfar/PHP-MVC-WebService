@@ -1,0 +1,19 @@
+<div class="jumbotron">
+    <p>You can search product info here.</p>
+    <form class="search-form"  method="POST" action="/search">
+        You want to search using...
+        <select class="form-control search-select" name="select">
+            <option value="default" selected="selected">Choose an option...</option>
+            <option value="obj_id">Search by object id</option>
+            <option value="name">Search by product name</option>
+            <option value="price">Search by price</option>
+            <option value="description">Search by description</option>
+        </select>
+        <div class="hider" style="display:none">
+            <input class="form-control search-form-input" type="search" placeholder="Search..." name="word"></input><br><br>
+            <button type="submit" class="btn btn-success" value="Search">Search!</button>
+        </div>
+    </form>
+    <?php echo $this->data['result']; ?>
+</div>
+<script type="text/javascript" src="public/js/search.js"></script>

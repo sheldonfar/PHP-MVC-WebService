@@ -1,0 +1,18 @@
+<div class="jumbotron">
+    <p>You can delete a product here.</p>
+    <form class="search-form"  method="POST" action="/delete">
+        You want to delete using...
+        <select class="form-control search-select" name="select">
+            <option value="default" selected="selected">Choose an option...</option>
+            <option value="obj_id">Delete by object id</option>
+            <option value="name">Delete by product name</option>
+            <option value="price">Delete by price</option>
+        </select>
+        <div class="hider" style="display:none">
+            <input class="form-control search-form-input" type="search" placeholder="Delete..." name="word"></input><br><br>
+            <button class="btn btn-danger" name="okbutton" value="Delete!">Delete!</button>
+        </div>
+    </form>
+    <?php echo $this->data['result']; ?>
+</div>
+<script type="text/javascript" src="public/js/search.js"></script>
